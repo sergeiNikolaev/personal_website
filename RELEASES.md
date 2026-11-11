@@ -1,5 +1,6 @@
 # Release Policy
 
+<!--
 This document defines the release workflow for Ananke.
 
 The project follows a structured branching and release strategy based on conventional commits and automated versioning.
@@ -50,7 +51,7 @@ flowchart LR
     F2 -->|squash| DEV
     F3 -->|squash| DEV
     FMORE --> DEV
-```
+/```
 
 ### `main`
 
@@ -98,9 +99,9 @@ This ensures:
 
 Used for testing and validation.
 
-```bash
+/```bash
 npm run release:pre
-```
+/```
 
 * Created from `development`
 * Marked as pre-release
@@ -108,9 +109,9 @@ npm run release:pre
 
 ### Stable releases
 
-```bash
+/```bash
 npm run release
-```
+/```
 
 * Created from `main`
 * Tagged as official release
@@ -125,4 +126,4 @@ Typical flow:
 3. Test changes on `development`
 4. Create pre-release if needed
 5. Rebase `development` → `main`
-6. Run stable release on `main`
+6. Run stable release on `main`-->

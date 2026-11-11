@@ -1,6 +1,6 @@
-# Ananke Theme for Hugo
+# Personal website based on Ananke Theme for Hugo
 
-Ananke is a flexible, production-ready starter theme for [Hugo](https://gohugo.io/) focused on accessibility, performance, and maintainable defaults.
+<!--Ananke is a flexible, production-ready starter theme for [Hugo](https://gohugo.io/) focused on accessibility, performance, and maintainable defaults.
 
 ![Ananke screenshot](images/screenshot.png)
 
@@ -61,4 +61,5 @@ After installation, use these guides to configure your site:
 
 * Bug reports: [GitHub Issues](https://github.com/gohugo-ananke/ananke/issues)
 * Questions and feature ideas: [GitHub Discussions](https://github.com/gohugo-ananke/ananke/discussions)
-* Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+* Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)-->
+-->
