@@ -1,0 +1,41 @@
+title = "Personal website"
+baseURL = "https://sergius-nikolaevius.netlify.app"
+languageCode = "en-us"
+theme = ["personal_site_style"]
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Sergei Nikolaev"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.fr]
+    title = "Sergei Nikolaev Fr"
+    weight = 2
+    contentDir = "content/fr"
+  [languages.ru]
+    title = "Sergei Nikolaev Ru"
+    weight = 3
+    contentDir = "content/ru"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = ""
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  custom_css = ["styles.scss"]

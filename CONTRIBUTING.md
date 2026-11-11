@@ -1,6 +1,6 @@
 # Contributing to Ananke
 
-Thanks for helping improve Ananke. This document describes the current contribution workflow for this repository.
+<!--Thanks for helping improve Ananke. This document describes the current contribution workflow for this repository.
 
 * [Ways to Contribute](#ways-to-contribute)
 * [Release Process](#release-process)
@@ -193,4 +193,4 @@ If you want to receive attribution for your contribution please follow the [cont
 
 ## License
 
-By contributing, you agree that your contributions are provided under the repository license in [LICENSE.md](LICENSE.md).
+By contributing, you agree that your contributions are provided under the repository license in [LICENSE.md](LICENSE.md).-->

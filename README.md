@@ -62,4 +62,5 @@ After installation, use these guides to configure your site:
 * Bug reports: [GitHub Issues](https://github.com/gohugo-ananke/ananke/issues)
 * Questions and feature ideas: [GitHub Discussions](https://github.com/gohugo-ananke/ananke/discussions)
 * Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)-->
--->
+
+A repository to store data, texts and web elements for my personal website.
